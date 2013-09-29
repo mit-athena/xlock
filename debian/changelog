@@ -1,4 +1,4 @@
-debathena-xlock (10.0.2-1) UNRELEASED; urgency=low
+debathena-xlock (10.0.2-1) unstable; urgency=low
 
   [ Jonathan Reed ]
   * Bump debian/compat to 6
@@ -8,8 +8,10 @@ debathena-xlock (10.0.2-1) UNRELEASED; urgency=low
 
   [ Alexander Chernyakhovsky ]
   * Convert to a non-native package
+  * Add git-buildpackage configuration
+  * Set source format to 3.0 (quilt)
 
- -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:38:48 -0400
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:39:12 -0400
 
 debathena-xlock (10.0.1) unstable; urgency=low
 

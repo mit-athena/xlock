@@ -1,11 +1,15 @@
-debathena-xlock (10.0.2) UNRELEASED; urgency=low
+debathena-xlock (10.0.2-1) UNRELEASED; urgency=low
 
+  [ Jonathan Reed ]
   * Bump debian/compat to 6
   * Switch from control.in to control (Trac: #561)
   * Bump Standards-Version to 3.9.3
   * Bump compat level to 7
 
- -- Jonathan Reed <jdreed@mit.edu>  Wed, 03 Apr 2013 13:31:25 -0400
+  [ Alexander Chernyakhovsky ]
+  * Convert to a non-native package
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 29 Sep 2013 04:38:48 -0400
 
 debathena-xlock (10.0.1) unstable; urgency=low
 

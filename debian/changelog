@@ -1,3 +1,9 @@
+debathena-xlock (10.0.3-0debathena1) unstable; urgency=low
+
+  * Release 10.0.3
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Sun, 09 Feb 2014 07:27:37 -0500
+
 debathena-xlock (10.0.2-1) unstable; urgency=low
 
   [ Jonathan Reed ]
